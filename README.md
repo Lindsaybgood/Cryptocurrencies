@@ -58,8 +58,7 @@ plot_df.hvplot(
     x="TotalCoinsMined", 
     y="TotalCoinSupply", 
     by="Class",
-    hover_cols=["CoinName"]
-)
+    hover_cols=["CoinName"])
 ```
 
 
