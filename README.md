@@ -44,7 +44,7 @@ fig.show()
 
 ### hvTable
 
-![hv_table](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/hv_table.png)
+![hv_table](https://github.com/Lindsaybgood/Cryptocurrencies/blob/main/Images/hv_table.png)
 
 The hvTable above displays all of the currently tradeable cryptocurrencies. This table is created using the hvplot.table() function.
 ```python
