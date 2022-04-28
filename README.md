@@ -13,7 +13,7 @@ The purpose of this project is to analyze cryptocurrency data using Unsupervised
 
 ### Elbow Curve
 
-![elbow_curve](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/elbow_curve.png)
+![elbow_curve](https://github.com/Lindsaybgood/Cryptocurrencies/blob/main/Images/elbow_curve.png)
 
 From the elbow curve above, it can be determined that the optimal number of clusters is 4 (k=4). This information is used for specifying the number of clusters (n_clusters) when initializing the K-means model:
 ```python
