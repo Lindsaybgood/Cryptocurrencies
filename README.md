@@ -63,5 +63,3 @@ plot_df.hvplot(
 ```
 
 
-**Author: Michael Mishkanian**  
-For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
