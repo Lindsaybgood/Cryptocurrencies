@@ -54,7 +54,7 @@ clustered_df.hvplot.table(columns)
 
 ### hvPlot (Scatter)
 
-![hv_plot](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/hv_plot.png)
+![hv_plot](https://github.com/Lindsaybgood/Cryptocurrencies/blob/main/Images/hv_plot.png)
 
 The graph above is a scatter plot grouped by class. This is created using hvplot.scatter. See the code below:
 
