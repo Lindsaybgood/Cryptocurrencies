@@ -22,7 +22,7 @@ model = KMeans(n_clusters=4, random_state=0)
 
 ### 3D Plot
 
-![3d_plot](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/3d_plot.png)
+![3d_plot](https://github.com/Lindsaybgood/Cryptocurrencies/blob/main/Images/3d_plot.png)
 
 This 3D scatter plot with cluster is generated using the following code:
 
